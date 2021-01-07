@@ -11,6 +11,7 @@ public class HelloWorld {
         System.out.println(me.name);
         System.out.println("Hello World"); // 输出 Hello World
         int myNameValue = me.name; // 将输入的姓名转换成整数
+        System.out.println(myNameValue); // 输出数据
     }
 }
 
